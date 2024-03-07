@@ -10,3 +10,5 @@ Here I will add daily one new topic with proper explanation.
 # Authentication
 
 # Reverse Proxy
+
+# API Gateway
